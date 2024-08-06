@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377974978739",
+    "project_id": "teamup-e21fc",
+    "storage_bucket": "teamup-e21fc.appspot.com",
+    "firebase_url": "https://teamup-e21fc-default-rtdb.europe-west1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377974978739:android:08087d73dd9da22b70d8c6",
+        "android_client_info": {
+          "package_name": "com.example.teamup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_R2BUGHDCJbyZQStqaJHkypwkT23zz3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

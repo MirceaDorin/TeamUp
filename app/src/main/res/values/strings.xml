@@ -1,0 +1,44 @@
+<resources>
+        <string name="app_name">TeamUp</string>
+        <string name="change_email">Change Email</string>
+        <string name="change_password">Change Password</string>
+        <string name="notifications">Notifications</string>
+        <string name="privacy_policy">Privacy Policy</string>
+        <string name="report_problem">Report a Problem</string>
+        <string name="help">Help</string>
+        <string name="delete_account">Delete Account</string>
+        <string name="chevron_right">Chevron Right</string>
+        <string name="select_city">Select City</string>
+        <string name="select_age">Select Age</string>
+        <string-array name="cities_array">
+                <item>Alege Orasul</item>
+                <item>Oradea</item>
+                <item>Cluj-Napoca</item>
+                <!-- Add more cities as needed -->
+        </string-array>
+        <string-array name="ages_array">
+                <item>Selectează-ți vârsta</item>
+                <item>19</item>
+                <item>20</item>
+                <!-- Add more ages as needed -->
+        </string-array>
+        <string name="profile_image">Profile Image</string>
+        <string-array name="locations">
+                <item>Baza Sportiva Tineretului</item>
+                <item>Baza Sportiva Gheorgheni</item>
+                <item>Baza Sportiva Universitate</item>
+        </string-array>
+        <string-array name="price_options">
+                <item>0 Lei</item>
+                <item>10 Lei</item>
+                <item>20 Lei</item>
+                <item>30 Lei</item>
+                <item>40 Lei</item>
+                <item>50 Lei</item>
+        </string-array>
+        <string-array name="choose_location">
+                <item>Baza Sportiva Tineretului</item>
+                <item>Baza Sportiva Gheorgheni</item>
+                <item>Baza Sportiva Universitate</item>
+        </string-array>
+</resources>
